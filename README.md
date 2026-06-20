@@ -1,2 +1,2 @@
 # delta-demo
-This if for demo of github.
+This if for demo of git & github.
